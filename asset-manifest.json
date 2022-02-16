@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rolodex-characters/static/css/main.4e8464dd.css",
+    "main.js": "/rolodex-characters/static/js/main.1c5ccc46.js",
+    "index.html": "/rolodex-characters/index.html",
+    "main.4e8464dd.css.map": "/rolodex-characters/static/css/main.4e8464dd.css.map",
+    "main.1c5ccc46.js.map": "/rolodex-characters/static/js/main.1c5ccc46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e8464dd.css",
+    "static/js/main.1c5ccc46.js"
+  ]
+}
